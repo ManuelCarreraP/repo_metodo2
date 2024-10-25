@@ -10,4 +10,4 @@ git remote add origin https://github.com/ManuelCarreraP/repo_metodo2.git
 # Comprobar que se realizo correctamente
 git remote -v
 
-# Modificar el readme y hacer un commit&push
+# Modificar el readme y hacer un commit & push
